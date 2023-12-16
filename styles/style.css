@@ -1,0 +1,19 @@
+*{
+    font-family: monospace, Verdana, sans-serif;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.gordon{
+    height: auto;
+    width: 750px;
+}
+
+h1{
+    text-align: center;
+}
+
